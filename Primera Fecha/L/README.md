@@ -1,6 +1,6 @@
 # Problema L
 
-[🔙](../) [📄](../L.pdf) [💻](../L.java)
+[🔙](../) [📄](../L/L.pdf) [💻](../L/L.java)
 
 ## Resumen del problema
 
