@@ -1,5 +1,7 @@
 # Problema L
 
+[🔙](../) [📄](../L.pdf) [💻](../L.java)
+
 ## Resumen del problema
 
 - Se recibe un número N el cuál representa 2^n

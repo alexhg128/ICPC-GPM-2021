@@ -5,7 +5,7 @@
 
 #### Dificultad Fácil
 
-- 🟢 [Problema L](./L.md)
+- 🟢 [Problema L](./L/)
 - 🟢 Problema L
 - 🟢 Problema L
 - 🟢 Problema L
