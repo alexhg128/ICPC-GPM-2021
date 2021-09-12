@@ -1,9 +1,8 @@
-# Soluciones ICPC
-## Primera Fecha Gran Premio México 2021
+# Primera Fecha Gran Premio México 2021
 
-### Problemas
+## Problemas
 
-#### Dificultad Fácil
+### Dificultad Fácil
 
 - 🟢 [Problema L](./L/)
 - 🟢 [Problema K](./K/)
