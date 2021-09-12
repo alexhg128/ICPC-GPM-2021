@@ -6,6 +6,6 @@
 #### Dificultad Fácil
 
 - 🟢 [Problema L](./L/)
-- 🟢 Problema L
-- 🟢 Problema L
-- 🟢 Problema L
+- 🟢 [Problema K](./K/)
+- 🟢 [Problema F](./F/)
+- 🟢 [Problema C](./C/)
