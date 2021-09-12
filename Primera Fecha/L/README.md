@@ -1,6 +1,10 @@
 # Problema L
 
-[🔙](../) [📄](../L/L.pdf) [💻](../L/L.java)
+[ 🔙 Volver ](../)
+
+[ 📄 Problema](../L/L.pdf) 
+
+[ 💻 Codigo](../L/L.java)
 
 ## Resumen del problema
 
