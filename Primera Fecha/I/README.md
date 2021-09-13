@@ -18,13 +18,13 @@
 
 - Recorremos la lista de ciudades para calcular la distancia local recorrida ```T += (cities[n - 1] - cities[i])```.
 
-- Recorremos de nuevo la lista de ciudades para encontrar si una combinación de I y J logran reducir la distancia total.
-
 ```c++
 for(int i = 0; i < cities.size(); i++) {
     T += (cities[n - 1] - cities[i]);
 }
 ```
+
+- Recorremos de nuevo la lista de ciudades para encontrar si una combinación de I y J logran reducir la distancia total.
 
 - Para cada ciudad i encontramos la ciudad j más lejana en la que podemos poner la maquina (```cities[i]+k```). Esto lo hacemos realizando una busqueda binaria en el vector ordenado. En C++ podemos usar la función ```lower_bound``` que hace la busqueda binaria y regresa el iterador en la posición exacta donde se encontro, el siguiente mayor si no se encuentra o ```cities.end()``` si no se encuentra y todos son menores.
 
