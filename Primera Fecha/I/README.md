@@ -8,11 +8,11 @@
 
 ## Resumen del problema
 
-- Estre problema nos brinda una lista de ciudades que estan en el km X de una carretera que solo puede ir de izquierda a derecha.
+- Este problema nos brinda una lista de ciudades que estan en el km X de una carretera que solo puede ir de izquierda a derecha.
 
 - Todas las ciudades envian un equipo a la última ciudad. El costo es igual a la distancia que se recorre.
 
-- Si colocamos una máquina teleportadora que tiene un costo por usarse, ¿es posible que podamos reducir el costo de transladar a todos los equipos?
+- Si colocamos una máquina teleportadora que tiene un costo por usarse y tiene un alcance máximo, ¿es posible que podamos reducir el costo de transladar a todos los equipos?
 
 ## Solución del problema
 
