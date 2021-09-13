@@ -6,5 +6,13 @@
 
 - 🟢 [Problema L](./L/)
 - 🟢 [Problema K](./K/)
-- 🟢 [Problema F](./F/)
+- 🟠 [Problema F](./F/)
+
+### Dificultad Media Baja
+
 - 🟢 [Problema C](./C/)
+- 🟠 [Problema I](./I/)
+
+### Dificultad Media Alta
+
+- 🟠 [Problema A](./A/)
