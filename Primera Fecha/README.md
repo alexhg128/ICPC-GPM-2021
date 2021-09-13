@@ -4,15 +4,25 @@
 
 ### Dificultad Fácil
 
-- 🟢 [Problema L](./L/)
-- 🟢 [Problema K](./K/)
-- 🟠 [Problema F](./F/)
+- 🟠 [F Fixing subtitles](./F/)
+- 🟢 [K Kids at the party](./K/)
+- 🟢 [L Leonel and the power of two](./L/)
 
 ### Dificultad Media Baja
 
-- 🟢 [Problema C](./C/)
-- 🟠 [Problema I](./I/)
+- 🟢 [C Cypher decypher](./C/)
+- 🟠 [I Introducing teleporting machine](./I/)
 
 ### Dificultad Media Alta
 
-- 🟠 [Problema A](./A/)
+- 🟠 [A Alien crop triangles](./A/)
+- 🟡 E Escape Room
+- 🟡 H Heatwave
+- 🟡 J Just send the email
+
+### Sin solución
+
+- 🔴 B Basel problem
+- 🔴 D Delivering pizza
+- 🔴 G Game of baker
+- 🔴 M Moon dancers
