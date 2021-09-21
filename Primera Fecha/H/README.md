@@ -4,7 +4,7 @@
 
 [ 📄 Problema](../H/H.pdf) 
 
-[ 💻 Codigo](../H/H.java)
+[ 💻 Codigo](../H/H.cpp)
 
 ## Resumen del problema
 
