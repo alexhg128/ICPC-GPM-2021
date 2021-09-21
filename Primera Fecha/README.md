@@ -16,9 +16,9 @@
 ### Dificultad Media Alta
 
 - 🟠 [A Alien crop triangles](./A/)
-- 🟡 E Escape Room
-- 🟡 H Heatwave
-- 🟡 J Just send the email
+- 🟢 [E Escape Room](./E/)
+- 🟠 [H Heatwave](./H/)
+- 🟢 [J Just send the email](./J/)
 
 ### Sin solución
 
